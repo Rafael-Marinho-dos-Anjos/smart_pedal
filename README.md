@@ -10,7 +10,7 @@ Este projeto tem como objetivo desenvolver um pedal digital de baixo custo para 
 
 | Componente | Descrição | Função |
 |------------|-----------|--------|
-| ESP32 | Microcontrolador | Realizar todo o processamento de áudio e interação com componentes de entrada/saída |
+| ESP32 | Microcontrolador | Realizar todo o processamento de áudio e interação com componentes de entrada/saída de comandos do usuário |
 | PCM1808 | ADC de 24 bits | Converte o sinal de entrada analógico para digital |
 | PCM1502 | DAC de 24 bits | Converte o sinal de áudio digital processado de volta para analógico |
 
