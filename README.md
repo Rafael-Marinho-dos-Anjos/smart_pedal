@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo desenvolver um pedal digital de baixo custo para guitarra altamente configurável, com vários efeitos disponíveis para serem utilizados.
 
-- [Protótipo digital]()
+- [Protótipo digital](https://github.com/Rafael-Marinho-dos-Anjos/smart_pedal/tree/prototipo)
 
 ![Pedal](./images/prototipo.png)
 
